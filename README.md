@@ -8,7 +8,7 @@ Applied :  **a) Multinomial Bayes Theorem ( with hyperparameter tuning )
            b) Passive Aggresive Classifier Algoriithm**
            
            
-       --------------------------------------------------------------------------------------------------   
+--------------------------------------------------------------------------------------------------   
            
 Part 3) convert text data into vector representation using **Word2Vec** and applied **LSTM** (Recurrent Neural Network).
 
